@@ -18,9 +18,9 @@ Retrieval-Augmented Generation (RAG).
 ## Tech Stack
 | Layer | Technology |
 |-------|-----------|
-| Frontend | React.js, Tailwind CSS |
+| Frontend | React.js, CSS |
 | Backend | FastAPI, Python |
-| AI/LLM | Groq API, LangChain |
+| LLM | Groq API, LangChain |
 | Vector DB | FAISS |
 | Auth | JWT |
 
