@@ -4,11 +4,9 @@ An AI-powered chatbot that answers questions from uploaded PDF documents using
 Retrieval-Augmented Generation (RAG).
 
 ## Demo
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/412d64db-cb59-4128-8659-5e5fa6c83f90" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/438368c0-643c-4373-885b-f9eef0872f88" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/330fa6bc-ee26-4b78-b13a-513462217852" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f81c7e33-29a8-43b5-b291-0533454637d6" />
-
+<img width="1920" height="1028" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/8981ec3b-4912-4054-a1ed-8b7d8a62043e" />
+<img width="1920" height="1017" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/c6a3d0ab-5d4a-4729-bfdd-c5cf5c97f01d" />
+<img width="1920" height="1021" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/3f28e1d3-7d47-49be-811a-9b5a74982400" />
 
 ## Features
 - Upload PDF documents and ask questions in natural language
