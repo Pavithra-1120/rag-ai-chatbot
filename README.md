@@ -3,6 +3,11 @@
 An AI-powered chatbot that answers questions from uploaded PDF documents using 
 Retrieval-Augmented Generation (RAG).
 
+## 🚀 Live Demo
+
+- **App:** https://rag-ai-chatbot-theta.vercel.app
+- **API Docs:** https://pavithra-1120-rag-chatbot-api.hf.space/docs
+
 ## Demo
 <img width="1920" height="1028" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/8981ec3b-4912-4054-a1ed-8b7d8a62043e" />
 <img width="1920" height="1017" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/c6a3d0ab-5d4a-4729-bfdd-c5cf5c97f01d" />
@@ -20,8 +25,10 @@ Retrieval-Augmented Generation (RAG).
 |-------|-----------|
 | Frontend | React.js, CSS |
 | Backend | FastAPI, Python |
-| LLM | Groq API, LangChain |
+| LLM | Groq API (llama-3.1-8b-instant), LangChain |
 | Vector DB | FAISS |
+| Deployment | Docker, Hugging Face Spaces, Vercel |
+| Database | PostgreSQL (Supabase) |
 | Auth | JWT |
 
 ## Getting Started
