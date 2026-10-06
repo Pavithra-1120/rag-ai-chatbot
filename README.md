@@ -31,7 +31,7 @@ Retrieval-Augmented Generation (RAG).
 |-------|-----------|
 | Frontend | React.js, CSS |
 | Backend | FastAPI, Python |
-| LLM | Groq API (llama-3.1-8b-instant), LangChain |
+| LLM | Groq API, LangChain |
 | Vector DB | FAISS |
 | Deployment | Docker, Hugging Face Spaces, Vercel |
 | Database | PostgreSQL (Supabase) |
