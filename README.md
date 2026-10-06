@@ -11,11 +11,12 @@ Retrieval-Augmented Generation (RAG).
 ## Demo
 
 <img width="1920" height="1020" alt="login" src="https://github.com/user-attachments/assets/b382cb7f-0c50-41bb-a06d-8ef89ed2d28a" />
-<img width="1920" height="1024" alt="loginsuccess" src="https://github.com/user-attachments/assets/dad9d74c-22d9-46dc-b216-a9b54a0f54b2" />
-<img width="1920" height="1020" alt="chatpage" src="https://github.com/user-attachments/assets/9baf9479-d522-4b39-ae04-8841d092f3ec" />
-<img width="1920" height="1024" alt="chat" src="https://github.com/user-attachments/assets/1b5b96ed-7897-4a63-9a20-5d7d6d6f9abd" />
 
-<img width="1920" height="1021" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/3f28e1d3-7d47-49be-811a-9b5a74982400" />
+<img width="1920" height="1024" alt="loginsuccess" src="https://github.com/user-attachments/assets/dad9d74c-22d9-46dc-b216-a9b54a0f54b2" />
+
+<img width="1920" height="1020" alt="chatpage" src="https://github.com/user-attachments/assets/9baf9479-d522-4b39-ae04-8841d092f3ec" />
+
+<img width="1920" height="1024" alt="chat" src="https://github.com/user-attachments/assets/1b5b96ed-7897-4a63-9a20-5d7d6d6f9abd" />
 
 
 ## Features
