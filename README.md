@@ -9,10 +9,14 @@ Retrieval-Augmented Generation (RAG).
 - **API Docs:** https://pavithra-1120-rag-chatbot-api.hf.space/docs
 
 ## Demo
+
+<img width="1920" height="1020" alt="login" src="https://github.com/user-attachments/assets/b382cb7f-0c50-41bb-a06d-8ef89ed2d28a" />
+
 <img width="1920" height="1028" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/8981ec3b-4912-4054-a1ed-8b7d8a62043e" />
+<img width="1920" height="1024" alt="loginsuccess" src="https://github.com/user-attachments/assets/dad9d74c-22d9-46dc-b216-a9b54a0f54b2" />
+
 <img width="1920" height="1017" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/c6a3d0ab-5d4a-4729-bfdd-c5cf5c97f01d" />
 <img width="1920" height="1021" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/3f28e1d3-7d47-49be-811a-9b5a74982400" />
-<img width="1920" height="967" alt="login" src="https://github.com/user-attachments/assets/c6a794bc-26eb-465b-bcca-40e0555be394" />
 
 
 ## Features
