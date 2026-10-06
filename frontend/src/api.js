@@ -52,6 +52,9 @@ export const api = {
 
     const res = await fetch(`${config.BASE_URL}/upload`, {
       method: "POST",
+      headers: {
+        Authorization: `Bearer ${getToken()}`,
+      },
       body: formData,
     });
 
